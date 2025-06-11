@@ -15,3 +15,4 @@ Toto `README` je prozatím "nic moc", ale prozatím jej můžeme využít pro za
     * Změna jména: `git config --global user.name "Vaše jméno"`
     * Změna emailu: `git config --global user.email "Váš email"`
     * Zkontrolujte si tyto kroky pomocí: `git config --list`
+6. Nyní se přihlaste do svého `GitHub` účtu (pokud ještě nemáte `GitHub`, vytvořte si jej zde: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
