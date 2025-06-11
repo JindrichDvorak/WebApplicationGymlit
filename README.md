@@ -10,3 +10,8 @@ Toto README je prozatím "nic moc", ale prozatím jej můžeme využít pro zaps
     * repos
     * dev
     * CsItGIT
+4. Otevřeme v této složce příkazový řádek. Jak to udělat? Klikneme na cestu naší složky, což ji označí, a následně napíšeme "cmd" a stiskneme ENTER.
+5. V příkazové řádce si nejprve nastavíme své údaje:
+    * Změna jména: `git config --global user.name "Vaše jméno"`
+    * Změna emailu: git config --global user.email "Váš email"
+    * Zkontrolujte si tyto kroky pomocí: git config --list
