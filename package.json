@@ -1,0 +1,23 @@
+{
+  "name": "webapplicationgymlit",
+  "version": "1.0.0",
+  "description": "V tomto krátkém dokumentu si ukážeme, jak si \"připravit PC\" pro vývoj webové aplikace s `version control` skrze `GIT`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JindrichDvorak/WebApplicationGymlit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JindrichDvorak/WebApplicationGymlit/issues"
+  },
+  "homepage": "https://github.com/JindrichDvorak/WebApplicationGymlit#readme",
+  
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
