@@ -25,4 +25,12 @@ V tomto krátkém dokumentu si ukážeme, jak si "připravit PC" pro vývoj webo
 
 ## Vytvoření nového repozitáře:
 1. Nyní se přihlaste do svého `GitHub` účtu (pokud ještě nemáte `GitHub`, vytvořte si jej zde: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-2. Po přihlášení klikněte na ikonku `New` v levém horním rohu ![alt text](readmeImg/githubNew.png)
+2. Po přihlášení klikněte na ikonku ![alt text](readmeImg/githubNew.png) v levém horním rohu.
+3. Vyplňte požadované informace (pro vás je nejdůležitější název a viditelnost repozitáře) a vytvořte nový repozitář.
+
+## Naklonování repozitáře:
+1. Otevřeme ve složce vašich lokálních repozitářů příkazový řádek (viz bod 4. v sekci "Instalace a nastavení `GIT`").
+2. Otevřeme si na `GitHub`u svůj repozitář, který chceme naklonovat a rozklikneme si tlačítko ![alt text](readmeImg/githubCode.png).
+3. Po rozkliknutí uvidíme v kolonce `URL` adresu našeho repozitáře, kterou si zkopírujeme (například kliknutím na ikonku ![alt text](readmeImg/githubCopy.png)).
+4. Do příkazového řádku napíšeme příkaz: `git clone Váše zkopírovaná URL adresa`
+5. Ve vaší složce pro lokální repozitáře by se měla vytvořit nová složka se jménem vašeho repozitáře.
