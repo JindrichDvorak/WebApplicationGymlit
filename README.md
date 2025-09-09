@@ -18,9 +18,11 @@ V tomto krátkém dokumentu si ukážeme, jak si "připravit PC" pro vývoj webo
     * `dev`
     * `CsItGIT`
 4. Otevřeme v této složce příkazový řádek: Klikneme na cestu naší složky, což ji označí, a následně napíšeme `cmd` a stiskneme `ENTER`.
-5. V příkazové řádce si nejprve nastavíme své údaje:
+5. V příkazové řádce si nejprve nastavíme své údaje (každý z následujících bodů je samostatný příkaz):
     * Změna jména: `git config --global user.name "Vaše jméno"`
     * Změna emailu: `git config --global user.email "Váš email"`
     * Zkontrolujte si tyto kroky pomocí: `git config --list`
-6. Nyní se přihlaste do svého `GitHub` účtu (pokud ještě nemáte `GitHub`, vytvořte si jej zde: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-7. 
+
+## Vytvoření nového repozitáře:
+1. Nyní se přihlaste do svého `GitHub` účtu (pokud ještě nemáte `GitHub`, vytvořte si jej zde: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+2. Po přihlášení klikněte na ikonku `New` v levém horním rohu ![alt text](readmeImg/githubNew.png)
