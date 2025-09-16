@@ -4,7 +4,7 @@
   "description": "V tomto krátkém dokumentu si ukážeme, jak si \"připravit PC\" pro vývoj webové aplikace s `version control` skrze `GIT`",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "live-server"
   },
   "repository": {
     "type": "git",
