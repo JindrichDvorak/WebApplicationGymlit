@@ -16,8 +16,8 @@
     "url": "https://github.com/JindrichDvorak/WebApplicationGymlit/issues"
   },
   "homepage": "https://github.com/JindrichDvorak/WebApplicationGymlit#readme",
-  
   "dependencies": {
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "three": "^0.180.0"
   }
 }
